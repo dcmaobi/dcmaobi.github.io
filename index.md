@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: www.linkedin.com/in/david-nosiri-0864a326b
-image: /assets/images/me.jpg
+image: assets/images/AI4A0540.jpeg
 ---

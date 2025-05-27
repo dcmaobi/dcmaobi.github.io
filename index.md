@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Ta'quavian Johnson
-description: CEAMLS SAIRI Summer 2025 Research Website
+title: David Nosiri
+description: David Nosiri CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Be Better!"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
+  - "🎓 Sophomore, Computer Science @ The Community College of Baltimore County"
+  - "🔬 Research: EcgNet: A Hybrid Multimodal Deep Learning Approach for Cardiovascular Disease (CVD) Diagnosis"
+  - "📍 Based in Parkville, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/taquavian-johnson/

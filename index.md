@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Parkville, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: www.linkedin.com/in/david-nosiri-0864a326b
 image: /assets/images/me.jpg
 ---

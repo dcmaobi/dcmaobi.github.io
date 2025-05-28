@@ -19,7 +19,7 @@ about:
     - icon: 💵
       title: Resourceful
       description: I’m passionate about finding innovative ways to generate revenue.
-    - icon: 🕹️
+    - icon: 🎮
       title: Gaming
       description: After a long, stressful day, I enjoy relaxing with the game to clear my mind and reset
 

@@ -4,27 +4,24 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: David Nosiri
+  role: Sophomore, Computer Science Major at The Community College of Baltimore County
   image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: https://www.linkedin.com/in/david-nosiri-0864a326b/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a sophomore studying Computer Science at The Community College of Baltimore County, Maryland. I expect to graduate by Fall 2025.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    I’m working on a project called EcgNet. It uses a type of artificial intelligence to help doctors find heart problems by looking at ECG signals (the electrical signals from the heart). The system combines smart tools to understand patterns in the data, clean up the noise, and give clear results. The goal is to make heart disease diagnosis faster, more accurate, and easier to explain to doctors and patients.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research or studying, I enjoy exploring new income streams, gaming on my console , and working on some personal projects in my free time.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
+    - icon: 💵
+      title: Resourceful
+      description: I’m passionate about finding innovative ways to generate revenue.
     - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+      title: Gaming
+      description: After a long, stressful day, I enjoy relaxing with the game to clear my mind and reset
 
   gallery:
     - image: /assets/images/me-guitar.png

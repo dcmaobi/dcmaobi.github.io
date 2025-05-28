@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: David Nosiri
   role: Sophomore, Computer Science Major at The Community College of Baltimore County
-  image: /assets/images/me.jpg
+  image: /assets/images/AI4A0540.jpeg
   linkedin: https://www.linkedin.com/in/david-nosiri-0864a326b/
   bio: |
     I’m currently a sophomore studying Computer Science at The Community College of Baltimore County, Maryland. I expect to graduate by Fall 2025.

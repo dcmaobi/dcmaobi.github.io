@@ -4,14 +4,12 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Sudip Sharma
+  title: Graduate Research Assistant
   image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  website: https://www.linkedin.com/in/nxxis 
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+   Sudip Sharma (He/Him) is a Graduate Research Assistant at the Center for Equitable AI and Machine Learning Systems (CEAMLS) at Morgan State University. With a strong foundation in software engineering, he brings hands-on experience from his previous role at EB Pearls, where he specialized in Node.js and iOS development. Sudip is passionate about leveraging AI/ML technologies to build impactful and inclusive solutions. Currently based in Baltimore, MD, he continues to deepen his expertise at the intersection of software engineering and ethical AI.
 
 faculty_mentor:
   name: Dr. Elijah Freeman

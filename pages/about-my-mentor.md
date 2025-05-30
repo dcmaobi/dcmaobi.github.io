@@ -14,7 +14,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Timothy Oladunni
   title: Assistant Professor, Computer Science, Morgan University
-  image: /assets/images/faculty-mentor.jpg
+  image: /assets/images/tim-ola.png
   website: https://www.linkedin.com/in/timothyoladunni 
   bio: |
     Dr. Timothy Oladunni is a Visiting Assistant Professor of Computer Science at Yale University and an Assistant Professor at Morgan State University. With a strong focus on artificial intelligence, he specializes in developing intelligent systems that address real-world challenges. His academic and research interests span AI applications, machine learning, and data-driven innovation. Currently based in New Haven, Connecticut, Dr. Oladunni contributes to advancing computer science education and AI research at two leading institutions.

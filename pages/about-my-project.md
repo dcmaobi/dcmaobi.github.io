@@ -21,9 +21,9 @@ final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d
 
 grad_mentor:
   name: Sudip Sharma
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  linkedin: https://www.linkedin.com/in/nxxis
 
 faculty_mentor:
   name: Dr. Timothy Oladunni
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  linkedin: https://www.linkedin.com/in/timothyoladunni
 ---
